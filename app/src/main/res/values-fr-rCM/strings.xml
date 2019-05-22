@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PocketBook</string>
+    <string name="newbudget">Nouveau Buget</string>
+    <string name="amountinput">Entrer le montant</string>
+    <string name="createbtn">créer</string>
+    <string name="deletebtn">effacer</string>
+    <string name="newtransaction">Nouvelle transaction</string>
+    <string name="msg_no_budgets">Aucun budget trouvé!</string>
+    <string name="share">Partager</string>
+    <string name="delete">Effa</string>
+    <string name="deleteRequest">Etes-vous sûr que vous voulez supprimer?</string>
+    <string name="budgettitle">Ma liste de budget</string>
+    <string name="purpose">But de la transaction</string>
+    <string name="transactiontitle">Ma liste de transaction</string>
+    <string name="initialtext">Budget Initial</string>
+    <string name="finaltext">soldes</string>
+    <string name="msg_no_transactions">Aucune transaction enregistrée</string>
+    <string name="warning">Attention!</string>
+    <string name="warningMessage">Le montant que vous avez entré est supérieur à votre budget</string>
+    <string name="shareMsg">Partager l\'application Pocketbook en utilisant:</string>
+    <string name="transactonCreated">Nouvelle transaction a été créée</string>
+    <string name="transactionFailed">Échec de la création de la transaction</string>
+    <string name="validation">Veuillez remplir tous les champs</string>
+    <string name="budgetFailed">Échec de la création du budget</string>
+    <string name="truncated">Votre liste a été vidée</string>
+    <string name="createdbudget">Nouveau budget a été créé</string>
+    <string name="warningAlert">Toutes vos données seront perdues</string>
+</resources>

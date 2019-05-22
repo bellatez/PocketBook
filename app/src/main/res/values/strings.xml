@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">PocketBook</string>
+    <string name="newbudget">New Budget</string>
+    <string name="amountinput">Enter Amount</string>
+    <string name="createbtn">Create</string>
+    <string name="budgettitle">My Budget List</string>
+    <string name="deletebtn">Delete</string>
+    <string name="newtransaction">New Transaction</string>
+    <string name="purpose">Purpose of Transaction</string>
+    <string name="transactiontitle">My Transaction List</string>
+    <string name="initialtext">Initial Budget:</string>
+    <string name="initamnt" translatable="false"></string>
+    <string name="title_activity_transaction" translatable="false">TransactionActivity</string>
+    <string name="title_activity_budget" translatable="false">BudgetActivity</string>
+    <string name="title_activity_test" translatable="false">TestActivity</string>
+    <string name="msg_no_budgets">No Budgets found!</string>
+
+    <string name="warningAlert">All your data will be lost</string>
+    <string name="share">Share</string>
+    <string name="shareMsg">Share Pocketbook App Using:</string>
+    <string name="delete">Delete</string>
+    <string name="deleteRequest">Are you sure you want to Delete?</string>
+    <string name="warningMessage">The amount you entered is more than your budget</string>
+    <string name="validation">Please fill all the fields</string>
+    <string name="warning">Warning!</string>
+    <string name="logo_description" translatable="false">logo</string>
+    <string name="msg_no_transactions">No Transactions Registered</string>
+    <string name="transactionFailed">Failed to create transaction</string>
+    <string name="budgetFailed">Failed to create Budget</string>
+    <string name="truncated">Your List has been emptied</string>
+    <string name="createdbudget">New Budget has been created</string>
+    <string name="transactonCreated">New Transaction has been created</string>
+    <string name="finaltext">Balance:</string>
+</resources>

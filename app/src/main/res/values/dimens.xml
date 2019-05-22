@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="layout_margin">10dp</dimen>
+    <dimen name="text_size">15sp</dimen>
+    <dimen name="body_text">14sp</dimen>
+    <dimen name="headings">20sp</dimen>
+    <dimen name="layout_padding">25dp</dimen>
+    <dimen name="msg_no_notes">26sp</dimen>
+    <dimen name="margin_top_no_notes">120dp</dimen>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/layout_margin"
+    android:layout_margin="@dimen/layout_margin">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/newtransaction"
+        android:textSize="@dimen/text_size"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif-smallcaps"
+        android:layout_marginTop="@dimen/layout_margin"/>
+
+    <EditText
+        android:id="@+id/transactionamnt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_marginTop="@dimen/layout_margin"
+        android:inputType="numberDecimal"
+        android:hint="@string/amountinput" />
+    <EditText
+        android:id="@+id/purpose"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="25"
+        android:hint="@string/purpose"
+        android:layout_marginTop="@dimen/layout_margin"
+        android:inputType="textMultiLine"
+        />
+
+    <Button
+        android:id="@+id/createbtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorAccent"
+        android:text="@string/createbtn"
+        android:layout_marginTop="@dimen/layout_margin"
+        android:textColor="@color/White" />
+
+</LinearLayout>
